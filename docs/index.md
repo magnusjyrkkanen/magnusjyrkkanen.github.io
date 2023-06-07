@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Example VitePress Site"
-  text: "This is just sample site 2"
-  tagline: My great project tagline
+  name: "Magnus Jyrkkänen"
+  text: "Portfolio"
+  tagline: Here be dragons... And maybe some content soon!
   actions:
     - theme: brand
       text: Markdown Examples
