@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Example VitePress Site",
-  description: "This is just sample site",
+  title: "Portfolio",
+  description: "Magnus Jyrkkänen's portfolio page.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -22,7 +22,11 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/magnusjyrkkanen' }
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2023 Magnus Jyrkkänen'
+    }
   }
 })

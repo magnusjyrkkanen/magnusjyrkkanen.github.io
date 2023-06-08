@@ -15,11 +15,13 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Battleship
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: House price prediction tool
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: magnusjyrkkanen.github.io
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Search robot
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
