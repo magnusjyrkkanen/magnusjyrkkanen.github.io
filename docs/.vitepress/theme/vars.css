@@ -1,5 +1,7 @@
 :root {
-    --vp-home-hero-name-color: rgb(0, 191, 255);
     --c-brand: rgb(0, 191, 255);
     --c-brand-light: rgb(0, 191, 255);
+    --vp-c-brand-lighter: rgb(0, 191, 255);
+    --vp-c-brand-dark: rgb(0, 158, 211);
+    --vp-c-brand-darker: rgb(0, 158, 211);
   }
