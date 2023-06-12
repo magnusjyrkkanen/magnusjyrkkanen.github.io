@@ -15,16 +15,19 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '', link: '/' },
+          { text: '', link: '/' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/magnusjyrkkanen' }
+      { icon: 'github', link: 'https://github.com/magnusjyrkkanen' },
+      { icon: 'instagram', link: 'https://www.instagram.com/magnusjyrkkanen/' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/magnusjyrkkanen/' },
+      { icon: 'twitter', link: 'https://twitter.com/magnusjyrkkanen' }
     ],
 
     footer: {

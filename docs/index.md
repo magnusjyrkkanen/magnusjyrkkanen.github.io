@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Magnus Jyrkkänen"
-  text: "Portfolio"
-  tagline: Here be dragons... And maybe some content soon!
+  name: Magnus Jyrkkänen
+  text: Portfolio
+  tagline: A portfolio page made with VitePress for different GitHub code projects.
   actions:
     - theme: brand
       text: GitHub Profile
@@ -14,19 +14,19 @@ hero:
 features:
   - title: Battleship
     details: A simple battleship game made with Python for command line.
-    text: Battleship repository
     link: https://github.com/magnusjyrkkanen/battleship
+    linktext: Battleship repository
   - title: House price prediction tool
     details: A house price prediction tool for predicting house prices from existing or new data.
-    text: House price prediction tool repository
     link: https://github.com/magnusjyrkkanen/house_price_prediction_tool
+    linktext: House price prediction tool repository
   - title: magnusjyrkkanen.github.io
     details: Portfolio page made with VitePress for different GitHub code projects.
-    text: magnusjyrkkanen.github.io repository
     link: https://github.com/magnusjyrkkanen/magnusjyrkkanen.github.io
+    linktext: magnusjyrkkanen.github.io repository
   - title: Search robot
     details: A simple search robot for trying robotic process automation.
-    text: Search robot repository
     link: https://github.com/magnusjyrkkanen/search-robot
+    linktext: Search robot repository
 ---
 
