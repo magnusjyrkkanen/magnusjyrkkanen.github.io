@@ -8,20 +8,21 @@ hero:
   tagline: Here be dragons... And maybe some content soon!
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub Profile
+      link: https://github.com/magnusjyrkkanen
 
 features:
   - title: Battleship
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: A simple battleship game made with Python for command line.
+    link: [Battleship repository](https://github.com/magnusjyrkkanen/battleship)
   - title: House price prediction tool
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: A house price prediction tool for predicting house prices from existing or new data.
+    link: [House price prediction tool repository](https://github.com/magnusjyrkkanen/house_price_prediction_tool)
   - title: magnusjyrkkanen.github.io
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Portfolio page made with VitePress for different GitHub code projects.
+    link: [magnusjyrkkanen.github.io repository](https://github.com/magnusjyrkkanen/magnusjyrkkanen.github.io)
   - title: Search robot
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: A simple search robot for trying robotic process automation.
+    link: [Search robot repository](https://github.com/magnusjyrkkanen/search-robot)
 ---
 

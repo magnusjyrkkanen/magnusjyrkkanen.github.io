@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Portfolio",
   description: "Magnus Jyrkkänen's portfolio page.",
+
+  lastUpdated: true,
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
