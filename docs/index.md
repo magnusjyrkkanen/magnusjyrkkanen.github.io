@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -11,11 +10,17 @@ hero:
       text: GitHub Profile
       link: https://github.com/magnusjyrkkanen
 
+## Projects
+
 features:
   - title: Battleship
     details: A simple battleship game made with Python for command line.
     link: https://github.com/magnusjyrkkanen/battleship
     linktext: Battleship repository
+  - title: 'Flutter test app'
+    details: 'Flutter test app for trying out development with Flutter, and Dart.'
+    link: 'https://github.com/magnusjyrkkanen/flutter_test_app'
+    linktext: 'Flutter test app repository'
   - title: House price prediction tool
     details: A house price prediction tool for predicting house prices from existing or new data.
     link: https://github.com/magnusjyrkkanen/house_price_prediction_tool
