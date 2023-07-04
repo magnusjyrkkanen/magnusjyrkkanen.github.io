@@ -6,7 +6,7 @@ hero:
   text: Portfolio
   tagline: A portfolio page made with VitePress for different GitHub code projects.
   image:
-    src: /fox.png
+    src: ./fox.png
     alt: Fox profile picture
   actions:
     - theme: brand
