@@ -5,6 +5,9 @@ hero:
   name: Magnus Jyrkkänen
   text: Portfolio
   tagline: A portfolio page made with VitePress for different GitHub code projects.
+  image:
+    src: /fox.png
+    alt: Fox profile picture
   actions:
     - theme: brand
       text: GitHub Profile
