@@ -16,9 +16,15 @@ A simple battleship game made with Python for command line.
 
 Repository: [Battleship](https://github.com/magnusjyrkkanen/battleship)
 
+### Flutter test app
+
+Flutter test app for trying out development with Flutter, and Dart.
+
+Repository: [Flutter test app](https://github.com/magnusjyrkkanen/flutter_test_app)
+
 ### House price prediction tool
 
-A house price prediction tool for predicting house prices from existing or new data.
+A simple AI house price prediction tool for predicting house prices from existing or new data.
 
 Repository: [House price prediction tool](https://github.com/magnusjyrkkanen/house_price_prediction_tool)
 

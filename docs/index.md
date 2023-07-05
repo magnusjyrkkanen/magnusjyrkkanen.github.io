@@ -25,7 +25,7 @@ features:
     link: 'https://github.com/magnusjyrkkanen/flutter_test_app'
     linktext: 'Flutter test app repository'
   - title: House price prediction tool
-    details: A house price prediction tool for predicting house prices from existing or new data.
+    details: A simple AI house price prediction tool for predicting house prices from existing or new data.
     link: https://github.com/magnusjyrkkanen/house_price_prediction_tool
     linktext: House price prediction tool repository
   - title: magnusjyrkkanen.github.io
