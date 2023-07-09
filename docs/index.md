@@ -16,7 +16,9 @@ hero:
 ## Projects
 
 features:
-  - title: Battleship
+  - icon: 
+      src: /media/battleship.png
+    title: Battleship
     details: A simple battleship game made with Python for command line.
     link: https://github.com/magnusjyrkkanen/battleship
     linktext: Battleship repository
