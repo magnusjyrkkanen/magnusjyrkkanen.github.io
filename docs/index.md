@@ -53,7 +53,7 @@ features:
       src: /media/pics.png
       alt: 'Pics icon'
     details: 'Picture search page using api made with React.'
-    link: https://github.com/magnusjyrkkanen/
+    link: https://github.com/magnusjyrkkanen/react-pics
     linktext: 'Pics repository'
 
   - title: 'Search robot'

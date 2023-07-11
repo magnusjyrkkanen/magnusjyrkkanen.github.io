@@ -34,11 +34,11 @@ Portfolio page made with VitePress for different GitHub code projects.
 
 Repository: [magnusjyrkkanen.github.io](https://github.com/magnusjyrkkanen/magnusjyrkkanen.github.io)
 
-### Pics
+### React pics
 
 Picture search page using api made with React.
 
-Repository: [Pics](https://github.com/magnusjyrkkanen/)
+Repository: [Pics](https://github.com/magnusjyrkkanen/react-pics)
 
 ### Search robot
 
